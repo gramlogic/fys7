@@ -1,2 +1,2 @@
 # fys7
-First year seminar, 007
+A small public repository for materials related to fys7, a first year seminar
